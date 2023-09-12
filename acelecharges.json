@@ -1,134 +1,186 @@
 {
   "Accelechargers": [
     {
+      "id": 1,
       "Realm": "Canyon Realm",
       "Accelecharger": "Hyper Jump",
-      "Effect": "Permite que os carros dos pilotos realizem saltos extremamente longos e altos com facilidade."
+      "Effect": "Permite que os carros dos pilotos realizem saltos extremamente longos e altos com facilidade.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/107.jpg"
     },
     {
+      "id": 2,
       "Realm": "Chrome Realm",
       "Accelecharger": "Undistort",
-      "Effect": "Apaga qualquer ilusão ou miragem vista pelo piloto."
+      "Effect": "Apaga qualquer ilusão ou miragem vista pelo piloto.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/113.jpg"
     },
     {
+      "id": 3,
       "Realm": "Wind Realm",
       "Accelecharger": "Wind Shark",
-      "Effect": "Permite que o carro do piloto se mova através das rajadas de vento mais fortes."
+      "Effect": "Permite que o carro do piloto se mova através das rajadas de vento mais fortes.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/112.jpg"
     },
     {
+      "id": 4,
       "Realm": "Solar Realm",
       "Accelecharger": "Anti Gravitation",
-      "Effect": "Permite que um carro manipule/controle a gravidade."
+      "Effect": "Permite que um carro manipule/controle a gravidade.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/124.jpg"
     },
     {
+      "id": 5,
       "Realm": "Labyrinth Realm",
       "Accelecharger": "Navigator",
-      "Effect": "Manipula o sistema de GPS do carro e aponta todas as direções corretas que levam à linha de chegada."
+      "Effect": "Manipula o sistema de GPS do carro e aponta todas as direções corretas que levam à linha de chegada.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/117.jpg"
     },
     {
+      "id": 5,
       "Realm": "Blizzard Realm",
       "Accelecharger": "Total Traction",
-      "Effect": "Oferece tração total ao carro em qualquer terreno."
+      "Effect": "Oferece tração total ao carro em qualquer terreno.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/125.jpg"
     },
     {
+      "id": 6,
       "Realm": "Cybergrid Realm",
       "Accelecharger": "Folding Corners",
-      "Effect": "Permite que os carros façam curvas de 90 graus com facilidade."
+      "Effect": "Permite que os carros façam curvas de 90 graus com facilidade.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/126.jpg"
     },
     {
+      "id": 7,
       "Realm": "Reactor Realm",
       "Accelecharger": "Sound Buffer",
-      "Effect": "Envia uma onda sonora com uma taxa de frequência mais alta para destruir não apenas a própria onda, mas também a antiga, além de neutralizar quaisquer ataques baseados em som."
+      "Effect": "Envia uma onda sonora com uma taxa de frequência mais alta para destruir não apenas a própria onda, mas também a antiga, além de neutralizar quaisquer ataques baseados em som.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/120.jpg"
     },
     {
+      "id": 8,
       "Realm": "Desert Realm",
       "Accelecharger": "Sand Speed",
-      "Effect": "Funde areia e outras superfícies instáveis por um curto período de tempo, o que permite dirigir sobre elas com segurança."
+      "Effect": "Funde areia e outras superfícies instáveis por um curto período de tempo, o que permite dirigir sobre elas com segurança.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/128.jpg"
     },
     {
+      "id": 9,
       "Realm": "Micro Realm",
       "Accelecharger": "Size Scaler",
-      "Effect": "Permite que os carros mudem de tamanho."
+      "Effect": "Permite que os carros mudem de tamanho.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/130.jpg"
     },
     {
+      "id": 10,
       "Realm": "Fog Realm",
       "Accelecharger": "Fog Vision",
-      "Effect": "Permite que os pilotos vejam claramente em condições de neblina."
+      "Effect": "Permite que os pilotos vejam claramente em condições de neblina.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/110.jpg"
     },
     {
+      "id": 11,
       "Realm": "Warped Realm",
       "Accelecharger": "Teleport",
-      "Effect": "Permite que o veículo teletransporte para sair de situações complicadas."
+      "Effect": "Permite que o veículo teletransporte para sair de situações complicadas.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/129.jpg"
     },
     {
+      "id": 12,
       "Realm": "Monument Realm",
       "Accelecharger": "2-D",
-      "Effect": "Permite que o veículo se torne bidimensional, podendo atravessar outros carros."
+      "Effect": "Permite que o veículo se torne bidimensional, podendo atravessar outros carros.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/127.jpg"
     },
     {
+      "id": 13,
       "Realm": "Storm Realm",
       "Accelecharger": "Lightning Rod",
-      "Effect": "Protege o carro de cargas elétricas."
+      "Effect": "Protege o carro de cargas elétricas.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/109.jpg"
     },
     {
+      "id": 14,
       "Realm": "Swamp Realm",
       "Accelecharger": "Sprout Road",
-      "Effect": "Cria um caminho orgânico de videiras sob o carro - melhor se usado na vertical."
+      "Effect": "Cria um caminho orgânico de videiras sob o carro - melhor se usado na vertical.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/106.jpg"
     },
     {
+      "id": 15,
       "Realm": "Cavern Realm",
       "Accelecharger": "Night Sight",
-      "Effect": "Permite que o piloto veja na escuridão total."
+      "Effect": "Permite que o piloto veja na escuridão total.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/114.jpg"
     },
     {
+      "id": 16,
       "Realm": "Lava Realm",
       "Accelecharger": "Impervious Tires",
-      "Effect": "Cria pneus regenerativos ou de auto-reparação que permanecem sempre em perfeitas condições."
+      "Effect": "Cria pneus regenerativos ou de auto-reparação que permanecem sempre em perfeitas condições.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/123.jpg"
     },
     {
+      "id": 17,
       "Realm": "Water Realm",
       "Accelecharger": "Hydro Glide",
-      "Effect": "Dá ao carro a capacidade de dirigir sobre a água."
+      "Effect": "Dá ao carro a capacidade de dirigir sobre a água.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/115.jpg"
     },
     {
+      "id": 18,
       "Realm": "Metro Realm",
       "Accelecharger": "Battering Bubble",
-      "Effect": "Cria um campo de força ao redor do carro, permitindo que ele destrua obstáculos sem perda de velocidade."
+      "Effect": "Cria um campo de força ao redor do carro, permitindo que ele destrua obstáculos sem perda de velocidade.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/118.jpg"
     },
     {
+      "id": 19,
       "Realm": "Cliffside Realm",
       "Accelecharger": "Turn & Burn",
-      "Effect": "Permite que o carro faça curvas fechadas sem diminuir a velocidade."
+      "Effect": "Permite que o carro faça curvas fechadas sem diminuir a velocidade.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/116.jpg"
     },
     {
+      "id": 20,
       "Realm": "Ice Realm",
       "Accelecharger": "Slip Grip",
-      "Effect": "Dá ao carro a capacidade de dirigir sobre terrenos escorregadios com a fricção necessária."
+      "Effect": "Dá ao carro a capacidade de dirigir sobre terrenos escorregadios com a fricção necessária.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/111.jpg"
     },
     {
+      "id": 21,
       "Realm": "Neon Pipeline Realm",
       "Accelecharger": "Wall Crawl",
-      "Effect": "Permite que o carro dirija de cabeça para baixo ou nas paredes."
+      "Effect": "Permite que o carro dirija de cabeça para baixo ou nas paredes.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/119.jpg"
     },
     {
+      "id": 22,
       "Realm": "Junk Realm",
       "Accelecharger": "Friction-less",
-      "Effect": "Cria uma bolha sem fricção ao redor do carro."
+      "Effect": "Cria uma bolha sem fricção ao redor do carro.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/108.jpg"
     },
     {
+      "id": 23,
       "Realm": "Ruins Realm",
       "Accelecharger": "Phantom Form",
-      "Effect": "Permite que o carro passe através de objetos."
+      "Effect": "Permite que o carro passe através de objetos.",
+       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/121.jpg"
     },
     {
+      "id": 24,
       "Realm": "Cosmic Realm",
       "Accelecharger": "Light Speed",
-      "Effect": "Permite que o usuário viaje na velocidade da luz.)"
+      "Effect": "Permite que o usuário viaje na velocidade da luz.)",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/122.jpg"
     },
     {
+      "id": 25,
       "Realm": "Solar Realm",
       "Accelecharger": "Light Speed",
-      "Effect": "Permite que o usuário controlar a gravidade"
+      "Effect": "Permite que o usuário controlar a gravidade",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/122.jpg"
     }
   ]
 }
