@@ -1,0 +1,134 @@
+{
+  "Accelechargers": [
+    {
+      "Realm": "Canyon Realm",
+      "Accelecharger": "Hyper Jump",
+      "Effect": "Permite que os carros dos pilotos realizem saltos extremamente longos e altos com facilidade."
+    },
+    {
+      "Realm": "Chrome Realm",
+      "Accelecharger": "Undistort",
+      "Effect": "Apaga qualquer ilusão ou miragem vista pelo piloto."
+    },
+    {
+      "Realm": "Wind Realm",
+      "Accelecharger": "Wind Shark",
+      "Effect": "Permite que o carro do piloto se mova através das rajadas de vento mais fortes."
+    },
+    {
+      "Realm": "Solar Realm",
+      "Accelecharger": "Anti Gravitation",
+      "Effect": "Permite que um carro manipule/controle a gravidade."
+    },
+    {
+      "Realm": "Labyrinth Realm",
+      "Accelecharger": "Navigator",
+      "Effect": "Manipula o sistema de GPS do carro e aponta todas as direções corretas que levam à linha de chegada."
+    },
+    {
+      "Realm": "Blizzard Realm",
+      "Accelecharger": "Total Traction",
+      "Effect": "Oferece tração total ao carro em qualquer terreno."
+    },
+    {
+      "Realm": "Cybergrid Realm",
+      "Accelecharger": "Folding Corners",
+      "Effect": "Permite que os carros façam curvas de 90 graus com facilidade."
+    },
+    {
+      "Realm": "Reactor Realm",
+      "Accelecharger": "Sound Buffer",
+      "Effect": "Envia uma onda sonora com uma taxa de frequência mais alta para destruir não apenas a própria onda, mas também a antiga, além de neutralizar quaisquer ataques baseados em som."
+    },
+    {
+      "Realm": "Desert Realm",
+      "Accelecharger": "Sand Speed",
+      "Effect": "Funde areia e outras superfícies instáveis por um curto período de tempo, o que permite dirigir sobre elas com segurança."
+    },
+    {
+      "Realm": "Micro Realm",
+      "Accelecharger": "Size Scaler",
+      "Effect": "Permite que os carros mudem de tamanho."
+    },
+    {
+      "Realm": "Fog Realm",
+      "Accelecharger": "Fog Vision",
+      "Effect": "Permite que os pilotos vejam claramente em condições de neblina."
+    },
+    {
+      "Realm": "Warped Realm",
+      "Accelecharger": "Teleport",
+      "Effect": "Permite que o veículo teletransporte para sair de situações complicadas."
+    },
+    {
+      "Realm": "Monument Realm",
+      "Accelecharger": "2-D",
+      "Effect": "Permite que o veículo se torne bidimensional, podendo atravessar outros carros."
+    },
+    {
+      "Realm": "Storm Realm",
+      "Accelecharger": "Lightning Rod",
+      "Effect": "Protege o carro de cargas elétricas."
+    },
+    {
+      "Realm": "Swamp Realm",
+      "Accelecharger": "Sprout Road",
+      "Effect": "Cria um caminho orgânico de videiras sob o carro - melhor se usado na vertical."
+    },
+    {
+      "Realm": "Cavern Realm",
+      "Accelecharger": "Night Sight",
+      "Effect": "Permite que o piloto veja na escuridão total."
+    },
+    {
+      "Realm": "Lava Realm",
+      "Accelecharger": "Impervious Tires",
+      "Effect": "Cria pneus regenerativos ou de auto-reparação que permanecem sempre em perfeitas condições."
+    },
+    {
+      "Realm": "Water Realm",
+      "Accelecharger": "Hydro Glide",
+      "Effect": "Dá ao carro a capacidade de dirigir sobre a água."
+    },
+    {
+      "Realm": "Metro Realm",
+      "Accelecharger": "Battering Bubble",
+      "Effect": "Cria um campo de força ao redor do carro, permitindo que ele destrua obstáculos sem perda de velocidade."
+    },
+    {
+      "Realm": "Cliffside Realm",
+      "Accelecharger": "Turn & Burn",
+      "Effect": "Permite que o carro faça curvas fechadas sem diminuir a velocidade."
+    },
+    {
+      "Realm": "Ice Realm",
+      "Accelecharger": "Slip Grip",
+      "Effect": "Dá ao carro a capacidade de dirigir sobre terrenos escorregadios com a fricção necessária."
+    },
+    {
+      "Realm": "Neon Pipeline Realm",
+      "Accelecharger": "Wall Crawl",
+      "Effect": "Permite que o carro dirija de cabeça para baixo ou nas paredes."
+    },
+    {
+      "Realm": "Junk Realm",
+      "Accelecharger": "Friction-less",
+      "Effect": "Cria uma bolha sem fricção ao redor do carro."
+    },
+    {
+      "Realm": "Ruins Realm",
+      "Accelecharger": "Phantom Form",
+      "Effect": "Permite que o carro passe através de objetos."
+    },
+    {
+      "Realm": "Cosmic Realm",
+      "Accelecharger": "Light Speed",
+      "Effect": "Permite que o usuário viaje na velocidade da luz.)"
+    },
+    {
+      "Realm": "Solar Realm",
+      "Accelecharger": "Light Speed",
+      "Effect": "Permite que o usuário controlar a gravidade"
+    }
+  ]
+}
